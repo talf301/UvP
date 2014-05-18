@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Upholders vs Persecutors">
+</Property><Property Name="Solution File" Value="C:\Users\Tal\Documents\Visual Studio 2010\Projects\Upholders and Persecutors\Upholders vs Persecutors.sln">
+</Property><Property Name="Date" Value="May-14-11">
+</Property><Property Name="Time" Value="17:17 PM">
+</Property><Property Name="Solution" Value="Upholders vs Persecutors">
+</Property><Property Name="Solution File" Value="C:\Users\Tal\Documents\Visual Studio 2010\Projects\Upholders and Persecutors\Upholders vs Persecutors.sln">
+</Property><Property Name="Date" Value="May-14-11">
+</Property><Property Name="Time" Value="17:17:52 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Upholders vs Persecutors" Source="Upholders and Persecutors\Upholders vs Persecutors.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Upholders vs Persecutors" Source="Upholders and Persecutors\Upholders vs Persecutors.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Upholders vs Persecutors" Source="Upholders and Persecutors\Upholders vs Persecutors.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Upholders vs Persecutors.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Upholders vs Persecutors.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Upholders vs Persecutors" Source="Upholders and Persecutors\Upholders vs Persecutors.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Upholders vs Persecutors" Source="Upholders and Persecutors\Upholders vs Persecutors.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Upholders and PersecutorsContent" Source="Upholders and Persecutors\Content\Upholders and PersecutorsContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

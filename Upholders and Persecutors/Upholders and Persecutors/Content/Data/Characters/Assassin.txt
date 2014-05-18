@@ -1,0 +1,11 @@
+4
+15
+2
+40
+0
+10
+150
+true
+false
+false
+Sprites\Characters\Assassin\

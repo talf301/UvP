@@ -1,0 +1,1953 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\PersecutorsCursor.png</Source>
+      <Name>Sprites\PersecutorsCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\PersecutorsCursor.xnb</Output>
+      <Time>2010-01-06T10:27:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UpholdersCursor.png</Source>
+      <Name>Sprites\UpholdersCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\UpholdersCursor.xnb</Output>
+      <Time>2010-01-06T10:27:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\RockGray.png</Source>
+      <Name>Sprites\RockGray</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\RockGray.xnb</Output>
+      <Time>2010-01-12T10:56:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\RockGreen.png</Source>
+      <Name>Sprites\RockGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\RockGreen.xnb</Output>
+      <Time>2010-01-12T10:56:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\RockWhite.png</Source>
+      <Name>Sprites\RockWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\RockWhite.xnb</Output>
+      <Time>2010-01-12T10:56:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardGreen.png</Source>
+      <Name>Sprites\BoardGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\BoardGreen.xnb</Output>
+      <Time>2010-01-19T19:35:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardNeutral.png</Source>
+      <Name>Sprites\BoardNeutral</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\BoardNeutral.xnb</Output>
+      <Time>2010-01-23T16:36:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardWhite.png</Source>
+      <Name>Sprites\BoardWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\BoardWhite.xnb</Output>
+      <Time>2010-01-19T19:35:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\BoardBackground.png</Source>
+      <Name>Sprites\BoardBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\BoardBackground.xnb</Output>
+      <Time>2010-01-18T19:42:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\GO.PNG</Source>
+      <Name>Sprites\GO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\GO.xnb</Output>
+      <Time>2010-01-18T19:03:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PersecutorsHP.PNG</Source>
+      <Name>Sprites\PersecutorsHP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\PersecutorsHP.xnb</Output>
+      <Time>2010-01-18T19:03:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\STOP.PNG</Source>
+      <Name>Sprites\STOP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\STOP.xnb</Output>
+      <Time>2010-01-18T19:03:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UpholdersHP.PNG</Source>
+      <Name>Sprites\UpholdersHP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\UpholdersHP.xnb</Output>
+      <Time>2010-01-18T19:03:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\NeutralBattle.png</Source>
+      <Name>Sprites\NeutralBattle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\NeutralBattle.xnb</Output>
+      <Time>2010-01-18T19:56:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\UpholdersBattle.png</Source>
+      <Name>Sprites\UpholdersBattle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\UpholdersBattle.xnb</Output>
+      <Time>2010-01-18T20:26:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame0.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame0.xnb</Output>
+      <Time>2010-01-15T20:23:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame1.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame1.xnb</Output>
+      <Time>2010-01-15T20:23:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame2.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame2.xnb</Output>
+      <Time>2010-01-15T20:22:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame3.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame3.xnb</Output>
+      <Time>2010-01-15T20:22:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame4.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame4.xnb</Output>
+      <Time>2010-01-15T20:22:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame5.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame5.xnb</Output>
+      <Time>2010-01-15T20:21:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame6.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame6.xnb</Output>
+      <Time>2010-01-15T20:22:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Frame7.png</Source>
+      <Name>Sprites\Characters\Assassin\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Frame7.xnb</Output>
+      <Time>2010-01-15T20:23:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame0.png</Source>
+      <Name>Sprites\Characters\Athas\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame0.xnb</Output>
+      <Time>2010-01-15T11:03:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame1.png</Source>
+      <Name>Sprites\Characters\Athas\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame1.xnb</Output>
+      <Time>2010-01-15T11:03:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame2.png</Source>
+      <Name>Sprites\Characters\Athas\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame2.xnb</Output>
+      <Time>2010-01-15T11:02:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame3.png</Source>
+      <Name>Sprites\Characters\Athas\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame3.xnb</Output>
+      <Time>2010-01-15T11:01:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame4.png</Source>
+      <Name>Sprites\Characters\Athas\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame4.xnb</Output>
+      <Time>2010-01-15T11:01:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame5.png</Source>
+      <Name>Sprites\Characters\Athas\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame5.xnb</Output>
+      <Time>2010-01-15T11:01:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame6.png</Source>
+      <Name>Sprites\Characters\Athas\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame6.xnb</Output>
+      <Time>2010-01-15T11:02:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Frame7.png</Source>
+      <Name>Sprites\Characters\Athas\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Frame7.xnb</Output>
+      <Time>2010-01-15T11:02:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame0.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame0.xnb</Output>
+      <Time>2010-01-05T21:35:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame1.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame1.xnb</Output>
+      <Time>2010-01-05T21:41:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame2.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame2.xnb</Output>
+      <Time>2010-01-05T21:40:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame3.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame3.xnb</Output>
+      <Time>2010-01-05T21:39:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame4.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame4.xnb</Output>
+      <Time>2010-01-05T21:39:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame5.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame5.xnb</Output>
+      <Time>2010-01-05T21:38:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame6.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame6.xnb</Output>
+      <Time>2010-01-05T21:40:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Frame7.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Frame7.xnb</Output>
+      <Time>2010-01-05T21:41:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blobasaur\Projectile.png</Source>
+      <Name>Sprites\Characters\Blobasaur\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blobasaur\Projectile.xnb</Output>
+      <Time>2010-01-14T11:11:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame0.png</Source>
+      <Name>Sprites\Characters\Blob\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame0.xnb</Output>
+      <Time>2010-01-05T10:50:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame1.png</Source>
+      <Name>Sprites\Characters\Blob\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame1.xnb</Output>
+      <Time>2010-01-05T10:51:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame2.png</Source>
+      <Name>Sprites\Characters\Blob\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame2.xnb</Output>
+      <Time>2010-01-05T10:51:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame3.png</Source>
+      <Name>Sprites\Characters\Blob\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame3.xnb</Output>
+      <Time>2010-01-05T10:51:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame4.png</Source>
+      <Name>Sprites\Characters\Blob\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame4.xnb</Output>
+      <Time>2010-01-05T10:51:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame5.png</Source>
+      <Name>Sprites\Characters\Blob\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame5.xnb</Output>
+      <Time>2010-01-05T10:51:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame6.png</Source>
+      <Name>Sprites\Characters\Blob\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame6.xnb</Output>
+      <Time>2010-01-05T10:50:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Frame7.png</Source>
+      <Name>Sprites\Characters\Blob\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Frame7.xnb</Output>
+      <Time>2010-01-05T10:50:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Blob\Projectile.png</Source>
+      <Name>Sprites\Characters\Blob\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Blob\Projectile.xnb</Output>
+      <Time>2010-01-14T11:11:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame0.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame0.xnb</Output>
+      <Time>2010-01-15T20:26:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame1.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame1.xnb</Output>
+      <Time>2010-01-15T20:26:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame2.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame2.xnb</Output>
+      <Time>2010-01-15T20:25:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame3.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame3.xnb</Output>
+      <Time>2010-01-15T20:24:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame4.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame4.xnb</Output>
+      <Time>2010-01-15T20:24:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame5.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame5.xnb</Output>
+      <Time>2010-01-15T20:24:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame6.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame6.xnb</Output>
+      <Time>2010-01-15T20:25:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Frame7.png</Source>
+      <Name>Sprites\Characters\Callivion\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Frame7.xnb</Output>
+      <Time>2010-01-15T20:25:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame0.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame0.xnb</Output>
+      <Time>2010-01-19T16:52:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame1.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame1.xnb</Output>
+      <Time>2010-01-19T16:52:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame2.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame2.xnb</Output>
+      <Time>2010-01-19T16:50:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame3.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame3.xnb</Output>
+      <Time>2010-01-19T16:52:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame4.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame4.xnb</Output>
+      <Time>2010-01-19T16:49:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame5.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame5.xnb</Output>
+      <Time>2010-01-19T16:52:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame6.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame6.xnb</Output>
+      <Time>2010-01-19T16:50:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Frame7.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Frame7.xnb</Output>
+      <Time>2010-01-19T16:51:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Dragon Rider\Projectile.png</Source>
+      <Name>Sprites\Characters\Dragon Rider\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Dragon Rider\Projectile.xnb</Output>
+      <Time>2010-01-19T16:39:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame0.png</Source>
+      <Name>Sprites\Characters\Druid\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame0.xnb</Output>
+      <Time>2010-01-14T22:00:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame1.png</Source>
+      <Name>Sprites\Characters\Druid\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame1.xnb</Output>
+      <Time>2010-01-14T22:00:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame2.png</Source>
+      <Name>Sprites\Characters\Druid\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame2.xnb</Output>
+      <Time>2010-01-14T21:59:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame3.png</Source>
+      <Name>Sprites\Characters\Druid\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame3.xnb</Output>
+      <Time>2010-01-14T21:58:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame4.png</Source>
+      <Name>Sprites\Characters\Druid\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame4.xnb</Output>
+      <Time>2010-01-14T21:58:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame5.png</Source>
+      <Name>Sprites\Characters\Druid\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame5.xnb</Output>
+      <Time>2010-01-14T21:57:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame6.png</Source>
+      <Name>Sprites\Characters\Druid\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame6.xnb</Output>
+      <Time>2010-01-14T21:58:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Frame7.png</Source>
+      <Name>Sprites\Characters\Druid\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Frame7.xnb</Output>
+      <Time>2010-01-14T21:59:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame0.png</Source>
+      <Name>Sprites\Characters\Einar\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame0.xnb</Output>
+      <Time>2010-01-19T16:48:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame1.png</Source>
+      <Name>Sprites\Characters\Einar\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame1.xnb</Output>
+      <Time>2010-01-19T16:48:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame2.png</Source>
+      <Name>Sprites\Characters\Einar\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame2.xnb</Output>
+      <Time>2010-01-19T16:47:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame3.png</Source>
+      <Name>Sprites\Characters\Einar\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame3.xnb</Output>
+      <Time>2010-01-19T16:47:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame4.png</Source>
+      <Name>Sprites\Characters\Einar\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame4.xnb</Output>
+      <Time>2010-01-19T16:47:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame5.png</Source>
+      <Name>Sprites\Characters\Einar\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame5.xnb</Output>
+      <Time>2010-01-19T16:46:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame6.png</Source>
+      <Name>Sprites\Characters\Einar\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame6.xnb</Output>
+      <Time>2010-01-19T16:47:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Frame7.png</Source>
+      <Name>Sprites\Characters\Einar\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Frame7.xnb</Output>
+      <Time>2010-01-19T16:48:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Einar\Projectile.png</Source>
+      <Name>Sprites\Characters\Einar\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Einar\Projectile.xnb</Output>
+      <Time>2010-01-19T16:38:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame0.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame0.xnb</Output>
+      <Time>2010-01-18T10:59:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame1.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame1.xnb</Output>
+      <Time>2010-01-18T10:58:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame10.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame10.xnb</Output>
+      <Time>2010-01-18T11:03:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame11.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame11.xnb</Output>
+      <Time>2010-01-18T11:00:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame12.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame12.xnb</Output>
+      <Time>2010-01-18T11:01:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame13.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame13.xnb</Output>
+      <Time>2010-01-18T11:00:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame14.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame14.xnb</Output>
+      <Time>2010-01-18T11:03:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame15.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame15.xnb</Output>
+      <Time>2010-01-18T11:04:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame2.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame2.xnb</Output>
+      <Time>2010-01-18T10:54:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame3.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame3.xnb</Output>
+      <Time>2010-01-18T10:52:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame4.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame4.xnb</Output>
+      <Time>2010-01-18T10:52:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame5.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame5.xnb</Output>
+      <Time>2010-01-18T10:52:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame6.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame6.xnb</Output>
+      <Time>2010-01-18T10:53:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame7.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame7.xnb</Output>
+      <Time>2010-01-18T10:55:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame8.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame8.xnb</Output>
+      <Time>2010-01-18T11:05:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Frame9.png</Source>
+      <Name>Sprites\Characters\Gauntler\Frame9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Frame9.xnb</Output>
+      <Time>2010-01-18T11:04:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame0.png</Source>
+      <Name>Sprites\Characters\Knight\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame0.xnb</Output>
+      <Time>2010-01-16T17:26:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame1.png</Source>
+      <Name>Sprites\Characters\Knight\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame1.xnb</Output>
+      <Time>2010-01-16T17:26:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame2.png</Source>
+      <Name>Sprites\Characters\Knight\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame2.xnb</Output>
+      <Time>2010-01-16T17:25:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame3.png</Source>
+      <Name>Sprites\Characters\Knight\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame3.xnb</Output>
+      <Time>2010-01-16T17:23:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame4.png</Source>
+      <Name>Sprites\Characters\Knight\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame4.xnb</Output>
+      <Time>2010-01-16T17:23:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame5.png</Source>
+      <Name>Sprites\Characters\Knight\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame5.xnb</Output>
+      <Time>2010-01-16T17:23:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame6.png</Source>
+      <Name>Sprites\Characters\Knight\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame6.xnb</Output>
+      <Time>2010-01-16T17:24:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Frame7.png</Source>
+      <Name>Sprites\Characters\Knight\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Frame7.xnb</Output>
+      <Time>2010-01-16T17:25:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame0.png</Source>
+      <Name>Sprites\Characters\Lion\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame0.xnb</Output>
+      <Time>2010-01-16T17:16:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame1.png</Source>
+      <Name>Sprites\Characters\Lion\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame1.xnb</Output>
+      <Time>2010-01-16T17:16:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame10.png</Source>
+      <Name>Sprites\Characters\Lion\Frame10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame10.xnb</Output>
+      <Time>2010-01-16T17:19:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame11.png</Source>
+      <Name>Sprites\Characters\Lion\Frame11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame11.xnb</Output>
+      <Time>2010-01-16T17:17:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame12.png</Source>
+      <Name>Sprites\Characters\Lion\Frame12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame12.xnb</Output>
+      <Time>2010-01-16T17:18:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame13.png</Source>
+      <Name>Sprites\Characters\Lion\Frame13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame13.xnb</Output>
+      <Time>2010-01-16T17:17:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame14.png</Source>
+      <Name>Sprites\Characters\Lion\Frame14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame14.xnb</Output>
+      <Time>2010-01-16T17:18:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame15.png</Source>
+      <Name>Sprites\Characters\Lion\Frame15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame15.xnb</Output>
+      <Time>2010-01-16T17:19:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame2.png</Source>
+      <Name>Sprites\Characters\Lion\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame2.xnb</Output>
+      <Time>2010-01-16T17:15:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame3.png</Source>
+      <Name>Sprites\Characters\Lion\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame3.xnb</Output>
+      <Time>2010-01-16T17:14:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame4.png</Source>
+      <Name>Sprites\Characters\Lion\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame4.xnb</Output>
+      <Time>2010-01-16T17:14:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame5.png</Source>
+      <Name>Sprites\Characters\Lion\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame5.xnb</Output>
+      <Time>2010-01-16T17:21:34-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame6.png</Source>
+      <Name>Sprites\Characters\Lion\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame6.xnb</Output>
+      <Time>2010-01-16T17:14:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame7.png</Source>
+      <Name>Sprites\Characters\Lion\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame7.xnb</Output>
+      <Time>2010-01-16T17:15:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame8.png</Source>
+      <Name>Sprites\Characters\Lion\Frame8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame8.xnb</Output>
+      <Time>2010-01-16T17:21:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Frame9.png</Source>
+      <Name>Sprites\Characters\Lion\Frame9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Frame9.xnb</Output>
+      <Time>2010-01-16T17:20:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame0.png</Source>
+      <Name>Sprites\Characters\Mage\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame0.xnb</Output>
+      <Time>2010-01-14T17:58:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame1.png</Source>
+      <Name>Sprites\Characters\Mage\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame1.xnb</Output>
+      <Time>2010-01-14T17:57:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame2.png</Source>
+      <Name>Sprites\Characters\Mage\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame2.xnb</Output>
+      <Time>2010-01-14T17:57:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame3.png</Source>
+      <Name>Sprites\Characters\Mage\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame3.xnb</Output>
+      <Time>2010-01-14T17:55:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame4.png</Source>
+      <Name>Sprites\Characters\Mage\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame4.xnb</Output>
+      <Time>2010-01-14T17:56:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame5.png</Source>
+      <Name>Sprites\Characters\Mage\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame5.xnb</Output>
+      <Time>2010-01-14T17:55:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame6.png</Source>
+      <Name>Sprites\Characters\Mage\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame6.xnb</Output>
+      <Time>2010-01-14T17:56:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Frame7.png</Source>
+      <Name>Sprites\Characters\Mage\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Frame7.xnb</Output>
+      <Time>2010-01-14T17:57:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Mage\Projectile.png</Source>
+      <Name>Sprites\Characters\Mage\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Mage\Projectile.xnb</Output>
+      <Time>2010-01-19T16:35:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame0.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame0.xnb</Output>
+      <Time>2010-01-12T11:35:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame1.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame1.xnb</Output>
+      <Time>2010-01-12T11:35:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame2.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame2.xnb</Output>
+      <Time>2010-01-12T11:34:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame3.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame3.xnb</Output>
+      <Time>2010-01-12T12:14:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame4.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame4.xnb</Output>
+      <Time>2010-01-12T11:33:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame5.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame5.xnb</Output>
+      <Time>2010-01-12T12:14:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame6.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame6.xnb</Output>
+      <Time>2010-01-12T11:33:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Frame7.png</Source>
+      <Name>Sprites\Characters\Marksman\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Frame7.xnb</Output>
+      <Time>2010-01-12T11:35:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Marksman\Projectile.png</Source>
+      <Name>Sprites\Characters\Marksman\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Marksman\Projectile.xnb</Output>
+      <Time>2010-01-19T16:34:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame0.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame0.xnb</Output>
+      <Time>2010-01-18T10:49:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame1.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame1.xnb</Output>
+      <Time>2010-01-18T10:49:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame2.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame2.xnb</Output>
+      <Time>2010-01-18T10:48:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame3.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame3.xnb</Output>
+      <Time>2010-01-18T10:48:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame4.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame4.xnb</Output>
+      <Time>2010-01-18T10:48:20-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame5.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame5.xnb</Output>
+      <Time>2010-01-18T10:47:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame6.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame6.xnb</Output>
+      <Time>2010-01-18T10:48:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Frame7.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Frame7.xnb</Output>
+      <Time>2010-01-18T10:49:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\PhoenixProfile.PNG</Source>
+      <Name>Sprites\Characters\Phoenix\PhoenixProfile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\PhoenixProfile.xnb</Output>
+      <Time>2010-01-13T11:32:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Phoenix\Projectile.png</Source>
+      <Name>Sprites\Characters\Phoenix\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Phoenix\Projectile.xnb</Output>
+      <Time>2010-01-14T11:08:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame0.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame0.xnb</Output>
+      <Time>2010-01-14T11:20:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame1.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame1.xnb</Output>
+      <Time>2010-01-14T11:20:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame2.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame2.xnb</Output>
+      <Time>2010-01-14T11:19:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame3.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame3.xnb</Output>
+      <Time>2010-01-14T11:19:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame4.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame4.xnb</Output>
+      <Time>2010-01-14T11:19:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame5.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame5.xnb</Output>
+      <Time>2010-01-14T11:18:54-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame6.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame6.xnb</Output>
+      <Time>2010-01-14T11:19:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Frame7.png</Source>
+      <Name>Sprites\Characters\Shadower\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Frame7.xnb</Output>
+      <Time>2010-01-14T11:19:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Shadower\Projectile.png</Source>
+      <Name>Sprites\Characters\Shadower\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Shadower\Projectile.xnb</Output>
+      <Time>2010-01-14T11:08:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame0.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame0.xnb</Output>
+      <Time>2010-01-05T10:56:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame1.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame1.xnb</Output>
+      <Time>2010-01-05T10:56:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame10.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame10.xnb</Output>
+      <Time>2010-01-05T10:55:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame11.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame11.xnb</Output>
+      <Time>2010-01-14T22:24:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame12.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame12.xnb</Output>
+      <Time>2010-01-05T10:55:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame13.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame13.xnb</Output>
+      <Time>2010-01-14T22:23:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame14.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame14.xnb</Output>
+      <Time>2010-01-05T10:55:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame15.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame15.xnb</Output>
+      <Time>2010-01-14T22:24:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame2.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame2.xnb</Output>
+      <Time>2010-01-05T10:56:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame3.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame3.xnb</Output>
+      <Time>2010-01-05T10:55:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame4.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame4.xnb</Output>
+      <Time>2010-01-05T10:55:50-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame5.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame5.xnb</Output>
+      <Time>2010-01-05T10:55:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame6.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame6.xnb</Output>
+      <Time>2010-01-05T10:55:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame7.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame7.xnb</Output>
+      <Time>2010-01-05T10:55:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame8.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame8.xnb</Output>
+      <Time>2010-01-05T10:55:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Frame9.png</Source>
+      <Name>Sprites\Characters\Soldier\Frame9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Frame9.xnb</Output>
+      <Time>2010-01-14T22:24:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Soldier\Projectile.png</Source>
+      <Name>Sprites\Characters\Soldier\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Soldier\Projectile.xnb</Output>
+      <Time>2010-01-19T16:33:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame0.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame0.xnb</Output>
+      <Time>2010-01-19T17:20:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame1.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame1.xnb</Output>
+      <Time>2010-01-19T17:22:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame2.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame2.xnb</Output>
+      <Time>2010-01-19T17:21:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame3.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame3.xnb</Output>
+      <Time>2010-01-19T17:20:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame4.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame4.xnb</Output>
+      <Time>2010-01-19T17:20:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame5.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame5.xnb</Output>
+      <Time>2010-01-19T17:20:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame6.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame6.xnb</Output>
+      <Time>2010-01-19T17:21:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Frame7.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Frame7.xnb</Output>
+      <Time>2010-01-19T17:21:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Valkyrie\Projectile.png</Source>
+      <Name>Sprites\Characters\Valkyrie\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Valkyrie\Projectile.xnb</Output>
+      <Time>2010-01-19T16:33:04-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame0.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame0.xnb</Output>
+      <Time>2010-01-18T10:38:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame1.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame1.xnb</Output>
+      <Time>2010-01-18T10:38:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame10.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame10.xnb</Output>
+      <Time>2010-01-18T10:36:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame11.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame11.xnb</Output>
+      <Time>2010-01-18T10:35:14-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame12.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame12.xnb</Output>
+      <Time>2010-01-18T10:35:30-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame13.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame13.xnb</Output>
+      <Time>2010-01-18T10:34:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame14.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame14.xnb</Output>
+      <Time>2010-01-18T10:35:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame15.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame15.xnb</Output>
+      <Time>2010-01-18T10:36:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame2.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame2.xnb</Output>
+      <Time>2010-01-18T10:37:38-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame3.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame3.xnb</Output>
+      <Time>2010-01-18T10:34:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame4.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame4.xnb</Output>
+      <Time>2010-01-18T10:37:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame5.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame5.xnb</Output>
+      <Time>2010-01-18T10:38:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame6.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame6.xnb</Output>
+      <Time>2010-01-18T10:37:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame7.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame7.xnb</Output>
+      <Time>2010-01-18T10:37:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame8.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame8.xnb</Output>
+      <Time>2010-01-18T10:36:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Frame9.png</Source>
+      <Name>Sprites\Characters\Wyvern\Frame9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Frame9.xnb</Output>
+      <Time>2010-01-18T10:36:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Assassin\Projectile.png</Source>
+      <Name>Sprites\Characters\Assassin\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Assassin\Projectile.xnb</Output>
+      <Time>2010-01-19T16:40:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Athas\Projectile.png</Source>
+      <Name>Sprites\Characters\Athas\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Athas\Projectile.xnb</Output>
+      <Time>2010-01-19T16:40:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Callivion\Projectile.png</Source>
+      <Name>Sprites\Characters\Callivion\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Callivion\Projectile.xnb</Output>
+      <Time>2010-01-19T16:39:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Druid\Projectile.png</Source>
+      <Name>Sprites\Characters\Druid\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Druid\Projectile.xnb</Output>
+      <Time>2010-01-19T16:39:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Gauntler\Projectile.png</Source>
+      <Name>Sprites\Characters\Gauntler\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Gauntler\Projectile.xnb</Output>
+      <Time>2010-01-19T16:38:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Knight\Projectile.png</Source>
+      <Name>Sprites\Characters\Knight\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Knight\Projectile.xnb</Output>
+      <Time>2010-01-19T16:35:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Lion\Projectile.png</Source>
+      <Name>Sprites\Characters\Lion\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Lion\Projectile.xnb</Output>
+      <Time>2010-01-19T16:35:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Characters\Wyvern\Projectile.png</Source>
+      <Name>Sprites\Characters\Wyvern\Projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\Characters\Wyvern\Projectile.xnb</Output>
+      <Time>2010-01-19T16:32:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\PersecutorsBattle.png</Source>
+      <Name>Sprites\PersecutorsBattle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Sprites\PersecutorsBattle.xnb</Output>
+      <Time>2010-01-18T20:17:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\GameOver.spritefont</Source>
+      <Name>Fonts\GameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\Fonts\GameOver.xnb</Output>
+      <Time>2010-01-19T11:23:40-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\Xbox 360\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\Xbox 360\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T01:16:14-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T01:16:16-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T01:16:26-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T01:16:12-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T01:16:06-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-01-16T00:32:05.6187064-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

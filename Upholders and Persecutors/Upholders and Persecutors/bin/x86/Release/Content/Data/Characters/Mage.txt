@@ -1,0 +1,11 @@
+3
+40
+2
+40
+0
+8
+170
+true
+false
+true
+Sprites\Characters\Mage\

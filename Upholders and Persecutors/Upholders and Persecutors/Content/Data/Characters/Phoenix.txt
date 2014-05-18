@@ -1,0 +1,11 @@
+5
+24
+4
+57
+0
+14
+150
+true
+true
+true
+Sprites\Characters\Phoenix\

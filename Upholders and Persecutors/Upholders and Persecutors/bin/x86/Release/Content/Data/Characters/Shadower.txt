@@ -1,0 +1,11 @@
+5
+26
+4
+52
+0
+16
+155
+true
+true
+false
+Sprites\Characters\Shadower\

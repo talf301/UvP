@@ -1,0 +1,11 @@
+4
+17
+2
+34
+1
+10
+150
+true
+false
+true
+Sprites\Characters\Knight\

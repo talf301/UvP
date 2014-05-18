@@ -1,0 +1,11 @@
+3
+43
+4
+76
+2
+18
+150
+true
+true
+false
+Sprites\Characters\Athas\

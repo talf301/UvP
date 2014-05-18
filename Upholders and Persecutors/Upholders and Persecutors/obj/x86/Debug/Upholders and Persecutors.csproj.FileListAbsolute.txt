@@ -1,0 +1,9 @@
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\x86\Debug\Content\Sprites\BoardGreen.xnb
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\x86\Debug\Content\Sprites\BoardNeutral.xnb
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\x86\Debug\Content\Sprites\BoardWhite.xnb
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\x86\Debug\Upholders and Persecutors.exe
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\bin\x86\Debug\Upholders and Persecutors.pdb
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\obj\x86\Debug\Upholders and Persecutors.exe
+C:\Documents and Settings\Tal\My Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\obj\x86\Debug\Upholders and Persecutors.pdb

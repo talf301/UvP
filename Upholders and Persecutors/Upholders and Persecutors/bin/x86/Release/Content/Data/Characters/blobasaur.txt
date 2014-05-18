@@ -1,0 +1,11 @@
+4
+35
+1
+90
+3
+20
+150
+true
+false
+false
+Sprites\Characters\Blobasaur\

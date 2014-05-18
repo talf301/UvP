@@ -1,0 +1,11 @@
+5
+25
+5
+58
+1
+1
+180
+true
+false
+true
+Sprites\Characters\Lion\
