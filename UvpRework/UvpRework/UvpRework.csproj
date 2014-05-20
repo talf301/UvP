@@ -74,6 +74,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GameState.cs" />
     <Compile Include="StateManager.cs" />
+    <Compile Include="BoardState.cs" />
+    <Compile Include="StateManagedGame.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />

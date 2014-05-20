@@ -25,26 +25,17 @@ namespace UvpRework
 	/// <summary>
 	/// Default Project Template
 	/// </summary>
-	public class Game1 : Game
+	public class Game1 : StateManagedGame
 	{
 		#region Fields
-		ArrayList<GameState> states;
-		GraphicsDeviceManager graphics;
-		SpriteBatch spriteBatch;
 		Texture2D logoTexture;
-
 		#endregion
 
 		#region Initialization
 
 		public Game1 ()
 		{
-
-			graphics = new GraphicsDeviceManager (this);
-			
 			Content.RootDirectory = "Content";
-
-			graphics.IsFullScreen = false;
 		}
 
 		/// <summary>
@@ -61,19 +52,12 @@ namespace UvpRework
 		/// </summary>
 		protected override void LoadContent ()
 		{
-			// Create a new SpriteBatch, which can be use to draw textures.
-			spriteBatch = new SpriteBatch (graphics.GraphicsDevice);
-			
+					
 			// TODO: use this.Content to load your game content here eg.
 			logoTexture = Content.Load<Texture2D> ("logo");
 		}
 
 		#endregion
-
-		private void Add(GameState gs)
-		{
-			states.Add (gs);
-		}
 
 		#region Update and Draw
 

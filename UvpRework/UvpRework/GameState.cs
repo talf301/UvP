@@ -4,23 +4,12 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace UvpRework
 {
-	public abstract class GameState
+	public interface IGameState
 	{
-		public GameState ()
-		{
-		}
-
-		public void Initialize(){
-		}
-		public void LoadContent() {
-		}
-		public void Update(GameTime gameTime) {
-		}
-
-		public void Draw(GameTime gameTime, SpriteBatch sb){
-		}
-
-
+		void Initialize ();
+		void LoadContent ();
+		void Update(GameTime gameTime);
+		void Draw (GameTime gameTime, SpriteBatch sb);
 	}
 }
 
