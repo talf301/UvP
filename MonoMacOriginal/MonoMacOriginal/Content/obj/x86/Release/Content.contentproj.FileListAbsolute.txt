@@ -1,0 +1,10 @@
+K:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\ResolveAssemblyReference.cache
+K:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\Sound\UvP.xml
+C:\Documents and Settings\Tal\My Documents\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tal\My Documents\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\Sound\UvP.xml
+M:\Documents\Programs\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\ResolveAssemblyReference.cache
+M:\Documents\Programs\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\Sound\UvP.xml
+F:\Documents\Programs\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Documents\Programs\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\Sound\UvP.xml
+C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Release\Sound\UvP.xml

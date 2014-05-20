@@ -1,0 +1,11 @@
+3
+37
+4
+73
+2
+20
+150
+true
+true
+true
+Sprites\Characters\Einar\

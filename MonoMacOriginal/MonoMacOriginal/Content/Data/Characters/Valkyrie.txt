@@ -1,0 +1,11 @@
+4
+16
+3
+48
+0
+17
+150
+true
+true
+true
+Sprites\Characters\Valkyrie\

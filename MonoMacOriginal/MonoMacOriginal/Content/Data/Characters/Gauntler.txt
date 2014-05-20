@@ -1,0 +1,11 @@
+3
+11
+2
+23
+0
+1
+150
+true
+false
+false
+Sprites\Characters\Gauntler\

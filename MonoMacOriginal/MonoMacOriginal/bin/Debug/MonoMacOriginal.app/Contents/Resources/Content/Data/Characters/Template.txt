@@ -1,0 +1,11 @@
+Movement on board
+Attack
+Speed
+health
+defense
+projectile speed
+projectile recharge speed
+ranged (boolean)
+flying (boolean)
+team(boolean - true for upholders, false for persecutors)
+location of sprites

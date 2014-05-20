@@ -5,7 +5,7 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 
-namespace Upholders_vs_Persecutors
+namespace MonoMacOriginal
 {
     public class Cursor
     {

@@ -1,0 +1,4 @@
+M:\Documents\Programs\Upholders and Persecutors\Upholders and Persecutors\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+M:\Documents\Programs\Upholders and Persecutors\Upholders and Persecutors\Content\obj\Xbox 360\Release\Sound\UvP.xml
+C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Users\Tal\Documents\Visual Studio 2008\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\Xbox 360\Release\Sound\UvP.xml

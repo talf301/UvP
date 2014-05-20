@@ -1,0 +1,11 @@
+4
+30
+3
+36
+0
+8
+150
+true
+false
+false
+Sprites\Characters\Druid\

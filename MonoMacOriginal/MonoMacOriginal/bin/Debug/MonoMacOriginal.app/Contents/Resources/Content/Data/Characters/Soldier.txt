@@ -1,0 +1,11 @@
+3
+9
+2
+27
+0
+1
+150
+true
+false
+true
+Sprites\Characters\Soldier\

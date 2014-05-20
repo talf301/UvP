@@ -1,0 +1,2 @@
+C:\Users\Tal\Documents\Visual Studio 2010\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tal\Documents\Visual Studio 2010\Projects\Upholders and Persecutors\Upholders and Persecutors\Content\obj\x86\Debug\Sound\UvP.xml

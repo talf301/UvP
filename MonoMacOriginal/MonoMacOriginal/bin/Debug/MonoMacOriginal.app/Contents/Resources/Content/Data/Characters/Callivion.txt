@@ -1,0 +1,11 @@
+3
+12
+2
+37
+0
+12
+150
+true
+false
+false
+Sprites\Characters\Callivion\

@@ -1,0 +1,33 @@
+﻿<Properties MonoDevelop.MonoMac.LastXamMacNagTime="18/05/2014 8:03:54 PM">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonoMacOriginal/Game1.cs">
+    <Files>
+      <File FileName="MonoMacOriginal/Projectile.cs" Line="8" Column="26" />
+      <File FileName="MonoMacOriginal/Rock.cs" Line="8" Column="26" />
+      <File FileName="MonoMacOriginal/Game1.cs" Line="20" Column="3" />
+      <File FileName="MonoMacOriginal/Cursor.cs" Line="9" Column="1" />
+      <File FileName="MonoMacOriginal/Character.cs" Line="71" Column="51" />
+      <File FileName="MonoMacOriginal/Board.cs" Line="31" Column="35" />
+      <File FileName="MonoMacOriginal/Battle.cs" Line="83" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="MonoMacOriginal" expanded="True">
+            <Node name="Content" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Characters" expanded="True" />
+              </Node>
+              <Node name="Sound" expanded="True" />
+            </Node>
+            <Node name="Game1.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

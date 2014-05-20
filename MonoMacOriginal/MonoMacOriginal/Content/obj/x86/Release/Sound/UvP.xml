@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Wave Bank">Wave Bank
+{
+    Name = Wave Bank;
+    Xbox File = Xbox\Wave Bank.xwb;
+    Windows File = Win\Wave Bank.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 0;
+    PC Bank Last Modified High = 0;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 610747023;
+    Bank Last Revised High = 30151498;
+
+    Wave
+    {
+        Name = BoardMusic;
+        File = BoardMusic.wav;
+        Build Settings Last Modified Low = 1075176541;
+        Build Settings Last Modified High = 30151295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 10500512;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 350347776;
+            Last Modified High = 30054744;
+        }
+    }
+
+    Wave
+    {
+        Name = DyingSound;
+        File = DyingSound.wav;
+        Build Settings Last Modified Low = 1075186542;
+        Build Settings Last Modified High = 30151295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 125952;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 736281344;
+            Last Modified High = 30054161;
+        }
+    }
+
+    Wave
+    {
+        Name = MeleeAttack;
+        File = MeleeAttack.wav;
+        Build Settings Last Modified Low = 1075196543;
+        Build Settings Last Modified High = 30151295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 52224;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1171248640;
+            Last Modified High = 30054160;
+        }
+    }
+
+    Wave
+    {
+        Name = Neutral Fight;
+        File = Neutral Fight.wav;
+        Build Settings Last Modified Low = 1075196543;
+        Build Settings Last Modified High = 30151295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 11039596;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3465517312;
+            Last Modified High = 30052303;
+        }
+    }
+
+    Wave
+    {
+        Name = Persecutors Fight;
+        File = Persecutors Fight.wav;
+        Build Settings Last Modified Low = 1075206543;
+        Build Settings Last Modified High = 30151295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 8934212;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1945517312;
+            Last Modified High = 30052303;
+        }
+    }
+
+    Wave
+    {
+        Name = Upholders Fight;
+        File = Upholders Fight.wav;
+        Build Settings Last Modified Low = 1075216544;
+        Build Settings Last Modified High = 30151295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 8924880;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 485517312;
+            Last Modified High = 30052303;
+        }
+    }
+
+    Wave
+    {
+        Name = PersecutorsDeath;
+        File = ..\..\..\..\..\..\My Received Files\PersecutorsDeath.wav;
+        Build Settings Last Modified Low = 577046734;
+        Build Settings Last Modified High = 30151497;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 200704;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3875267019;
+            Last Modified High = 30151496;
+        }
+    }
+
+    Wave
+    {
+        Name = RangedAttack;
+        File = RangedAttack.wav;
+        Build Settings Last Modified Low = 288648600;
+        Build Settings Last Modified High = 30151498;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 59392;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4046955201;
+            Last Modified High = 30151497;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>
