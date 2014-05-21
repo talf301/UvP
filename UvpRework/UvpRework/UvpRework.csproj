@@ -65,17 +65,27 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
-    <Reference Include="MonoMac" />
-    <Reference Include="MonoGame.Framework" />
+    <Reference Include="MonoMac">
+      <HintPath>..\..\..\MonoGameMac\MonoMac.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>..\..\..\MonoGameMac\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Lidgren.Network">
+      <HintPath>..\..\..\MonoGameMac\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="Tao.Sdl">
+      <HintPath>..\..\..\MonoGameMac\Tao.Sdl.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Game1.cs" />
     <Compile Include="Main.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GameState.cs" />
-    <Compile Include="StateManager.cs" />
     <Compile Include="BoardState.cs" />
     <Compile Include="StateManagedGame.cs" />
+    <Compile Include="BattleState.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />

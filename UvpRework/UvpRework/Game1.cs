@@ -36,15 +36,8 @@ namespace UvpRework
 		public Game1 ()
 		{
 			Content.RootDirectory = "Content";
-		}
-
-		/// <summary>
-		/// Overridden from the base Game.Initialize. Once the GraphicsDevice is setup,
-		/// we'll use the viewport to initialize some values.
-		/// </summary>
-		protected override void Initialize ()
-		{
-			base.Initialize ();
+			base.Add (new BoardState ());
+			base.Add (new BattleState ());
 		}
 
 		/// <summary>
@@ -55,6 +48,7 @@ namespace UvpRework
 					
 			// TODO: use this.Content to load your game content here eg.
 			logoTexture = Content.Load<Texture2D> ("logo");
+			base.LoadContent ();
 		}
 
 		#endregion
@@ -69,28 +63,10 @@ namespace UvpRework
 		protected override void Update (GameTime gameTime)
 		{
 			// TODO: Add your update logic here			
-            		
+			if (Keyboard.GetState ().IsKeyDown (Keys.A)) {
+				base.ChangeState (1);
+			}
 			base.Update (gameTime);
-		}
-
-		/// <summary>
-		/// This is called when the game should draw itself. 
-		/// </summary>
-		/// <param name="gameTime">Provides a snapshot of timing values.</param>
-		protected override void Draw (GameTime gameTime)
-		{
-			// Clear the backbuffer
-			graphics.GraphicsDevice.Clear (Color.CornflowerBlue);
-
-			spriteBatch.Begin ();
-
-			// draw the logo
-			spriteBatch.Draw (logoTexture, new Vector2 (130, 200), Color.White);
-
-			spriteBatch.End ();
-
-			//TODO: Add your drawing code here
-			base.Draw (gameTime);
 		}
 
 		#endregion

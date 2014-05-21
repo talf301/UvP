@@ -18,12 +18,19 @@ namespace UvpRework
 		public StateManagedGame ()
 		{
 			graphics = new GraphicsDeviceManager (this);
+			states = new List<IGameState> ();
 		}
 
 		protected override void Initialize()
 		{
 			foreach (IGameState s in states)
-				s.Initialize;
+				s.Initialize();
+			try{
+				activeState = states[0];
+			} catch(IndexOutOfRangeException e) {
+				Console.WriteLine("No states set");
+				Console.WriteLine (e.StackTrace);
+			}
 			base.Initialize ();
 		}
 
@@ -31,7 +38,7 @@ namespace UvpRework
 		{
 			sb = new SpriteBatch (graphics.GraphicsDevice);
 			foreach (IGameState s in states)
-				s.LoadContent ();
+				s.LoadContent (Content);
 		}
 		#endregion
 
@@ -44,9 +51,13 @@ namespace UvpRework
 
 		protected override void Draw(GameTime gameTime)
 		{
-			foreach (IGameState s in states)
-				s.Draw (gameTime, sb);
+			sb.Begin ();
+
+			activeState.Draw (gameTime, sb);
+
 			base.Draw (gameTime);
+
+			sb.End ();
 		}
 		#endregion
 
