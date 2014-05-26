@@ -2,17 +2,28 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
+using Artemis;
 namespace UvpRework
 {
 	public class BoardState : IGameState
 	{
+		EntityWorld world;
 		Texture2D logoTexture;
+		private static BoardState instance;
 		public BoardState ()
 		{
 		}
 
+		public static BoardState GetInstance()
+		{
+			if (instance == null)
+				instance = new BoardState ();
+			return instance;
+		}
+
 		public void Initialize()
 		{
+			world = new EntityWorld ();
 		}
 
 		public void LoadContent(ContentManager Content)
@@ -28,6 +39,7 @@ namespace UvpRework
 		{
 			sb.Draw (logoTexture, new Vector2 (130, 200), Color.White);
 		}
+
 	}
 }
 

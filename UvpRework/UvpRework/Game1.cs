@@ -36,7 +36,7 @@ namespace UvpRework
 		public Game1 ()
 		{
 			Content.RootDirectory = "Content";
-			base.Add (new BoardState ());
+			base.Add (BoardState.GetInstance());
 			base.Add (new BattleState ());
 		}
 
@@ -64,7 +64,7 @@ namespace UvpRework
 		{
 			// TODO: Add your update logic here			
 			if (Keyboard.GetState ().IsKeyDown (Keys.A)) {
-				base.ChangeState (1);
+				base.ChangeState (1);	
 			}
 			base.Update (gameTime);
 		}
