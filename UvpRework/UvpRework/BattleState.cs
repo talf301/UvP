@@ -6,8 +6,16 @@ namespace UvpRework
 {
 	public class BattleState : IGameState
 	{
+		private static BattleState instance;
 		public BattleState ()
 		{
+		}
+
+		public BattleState GetInstance()
+		{
+			if (instance == null)
+				instance = new BattleState ();
+			return instance;
 		}
 
 		public void Initialize(){}

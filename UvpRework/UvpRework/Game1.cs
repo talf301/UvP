@@ -45,9 +45,6 @@ namespace UvpRework
 		/// </summary>
 		protected override void LoadContent ()
 		{
-					
-			// TODO: use this.Content to load your game content here eg.
-			logoTexture = Content.Load<Texture2D> ("logo");
 			base.LoadContent ();
 		}
 
