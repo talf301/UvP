@@ -13,7 +13,7 @@
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 	<key>BuildMachineOSBuild</key>
-	<string>13C64</string>
+	<string>13D65</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
@@ -37,7 +37,7 @@
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>13C64</string>
+	<string>13D65</string>
 	<key>DTSDKName</key>
 	<string>macosx10.9</string>
 	<key>DTXcode</key>

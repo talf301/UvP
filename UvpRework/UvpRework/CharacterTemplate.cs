@@ -37,7 +37,7 @@ namespace UvpRework
 				for(int i = 0; i < 16; i++)
 					sprites [i] = Content.Load<Texture2D> (spriteLocation + Path.PathSeparator + i);
 			}
-			e.AddComponent (new BattleInfo (power, speed, health, defense, projSpeed, rechargeSpeed, ranged));
+			e.AddComponent (new BattleInfo (power, speed, health, defense, projSpeed, rechargeSpeed, ranged, team));
 			e.AddComponent (new BoardInfo (movement, flying, team, x, y));
 			e.AddComponent (new Sprite (sprites));
 			return e;

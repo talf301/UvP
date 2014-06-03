@@ -96,6 +96,8 @@
     <Compile Include="Team.cs" />
     <Compile Include="Components\BattleInfo.cs" />
     <Compile Include="CharacterTemplate.cs" />
+    <Compile Include="Systems\BoardRenderSystem.cs" />
+    <Compile Include="Systems\BoardInputSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
@@ -107,5 +109,6 @@
   <ItemGroup>
     <Folder Include="GameStateBase\" />
     <Folder Include="Components\" />
+    <Folder Include="Systems\" />
   </ItemGroup>
 </Project>
