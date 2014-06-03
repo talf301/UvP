@@ -3,6 +3,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Artemis;
+using Artemis.Blackboard;
 namespace UvpRework
 {
 	public class BoardState : IGameState
@@ -12,6 +13,7 @@ namespace UvpRework
 		private static BoardState instance;
 		public BoardState ()
 		{
+			
 		}
 
 		public static BoardState GetInstance()
@@ -33,6 +35,7 @@ namespace UvpRework
 
 		public void Update(GameTime gameTime)
 		{
+
 		}
 
 		public void Draw(GameTime gameTime, SpriteBatch sb)

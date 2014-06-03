@@ -14,7 +14,7 @@ namespace UvpRework
 			this.sprites = sprites;
 		}
 
-		public Texture2D getBoardImage(Team team)
+		public Texture2D GetBoardImage(Team team)
 		{
 			switch(team) {
 			case Team.PERSECUTORS:
@@ -22,6 +22,7 @@ namespace UvpRework
 			case Team.UPHOLDERS:
 				return sprites [6];
 			}
+			return null;	
 		}
 	}
 }

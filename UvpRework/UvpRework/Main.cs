@@ -30,7 +30,7 @@ namespace UvpRework
 
 		public override void FinishedLaunching (MonoMac.Foundation.NSObject notification)
 		{
-			game = new Game1 ();
+			game = Game1.GetInstance ();
 			game.Run ();
 		}
 

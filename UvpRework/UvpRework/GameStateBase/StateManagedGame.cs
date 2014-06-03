@@ -69,7 +69,7 @@ namespace UvpRework
 			return states.Count - 1;
 		}
 
-		protected void ChangeState(int index)
+		public void ChangeState(int index)
 		{
 			try{
 				activeState = states[index];

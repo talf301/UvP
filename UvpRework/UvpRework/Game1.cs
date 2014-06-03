@@ -18,6 +18,7 @@ using Microsoft.Xna.Framework.Input.Touch;
 using Microsoft.Xna.Framework.Storage;
 using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Media;
+using Artemis.System;
 
 #endregion
 namespace UvpRework
@@ -28,18 +29,29 @@ namespace UvpRework
 	public class Game1 : StateManagedGame
 	{
 		#region Fields
-		Texture2D logoTexture;
+		public static int BOARD_STATE, BATTLE_STATE;
+		private static Game1 instance;
 		#endregion
 
 		#region Initialization
 
 		public Game1 ()
 		{
+			
 			Content.RootDirectory = "Content";
-			base.Add (BoardState.GetInstance());
-			base.Add (new BattleState ());
+			BOARD_STATE = base.Add (BoardState.GetInstance ());
+			BATTLE_STATE = base.Add (BattleState.GetInstance ());
+			EntitySystem.BlackBoard.SetEntry<ContentManager>("Content", Content);
+			EntitySystem.BlackBoard.SetEntry<SpriteBatch>("SpriteBatch", sb);
+			EntitySystem.BlackBoard.SetEntry<GraphicsDeviceManager>("Graphics", graphics);	
 		}
 
+		public static Game1 GetInstance()
+		{
+			if (instance == null)
+				instance = new Game1 ();
+			return instance;
+		}
 		/// <summary>
 		/// Load your graphics content.
 		/// </summary>

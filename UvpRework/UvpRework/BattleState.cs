@@ -11,7 +11,7 @@ namespace UvpRework
 		{
 		}
 
-		public BattleState GetInstance()
+		public static BattleState GetInstance()
 		{
 			if (instance == null)
 				instance = new BattleState ();

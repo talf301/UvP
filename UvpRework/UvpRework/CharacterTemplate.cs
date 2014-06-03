@@ -1,15 +1,15 @@
 ﻿using System;
-using System;
 using System.IO;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content;
 using Artemis;
+using Artemis.System;
 namespace UvpRework
 {
 	[Artemis.Attributes.ArtemisEntityTemplate("CharacterTemplate")]
 	public class CharacterTemplate : Artemis.Interface.IEntityTemplate
 	{
-		//Expecting args[0] to be the location of the descriptive file, args[1] to be ContentManager
+		//Expecting args[0] to be the location of the descriptive file, args[1] to be x, args[2] to be y
 		public Entity BuildEntity(Entity e, EntityWorld eWorld, params object[] args)
 		{
 			TextReader tr = new StreamReader ((String)args [0]);
@@ -24,9 +24,10 @@ namespace UvpRework
 			bool flying = ParseBool(tr.ReadLine());
 			Team team = ParseTeam(tr.ReadLine());
 			String spriteLocation = tr.ReadLine();
-
+			int x = (int)args[1];
+			int y = (int)args[2];
 			Texture2D[] sprites;
-			ContentManager Content = (ContentManager)args [1];
+			ContentManager Content = EntitySystem.BlackBoard.GetEntry<ContentManager>("Content");
 			if (ranged) {
 				sprites = new Texture2D[8];
 				for (int i = 0; i < 8; i++)
@@ -37,8 +38,9 @@ namespace UvpRework
 					sprites [i] = Content.Load<Texture2D> (spriteLocation + Path.PathSeparator + i);
 			}
 			e.AddComponent (new BattleInfo (power, speed, health, defense, projSpeed, rechargeSpeed, ranged));
-			e.AddComponent (new BoardInfo (movement, flying, Team));
+			e.AddComponent (new BoardInfo (movement, flying, team, x, y));
 			e.AddComponent (new Sprite (sprites));
+			return e;
 		}
 
 		private bool ParseBool(String input)

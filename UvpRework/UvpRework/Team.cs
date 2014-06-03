@@ -4,6 +4,7 @@ namespace UvpRework
 {
 	public enum Team
 	{
+			
 		UPHOLDERS, PERSECUTORS
 	}
 }

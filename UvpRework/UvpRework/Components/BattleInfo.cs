@@ -1,8 +1,8 @@
 ﻿using System;
-
+using Artemis.Interface;
 namespace UvpRework
 {
-	public class BattleInfo
+	public class BattleInfo : IComponent
 	{
 		private int power, speed, health, defense, projSpeed, rechargeSpeed, currentHealth;
 		private bool ranged;
@@ -16,6 +16,11 @@ namespace UvpRework
 			this.rechargeSpeed = rechargeSpeed;
 			this.currentHealth = health;
 			this.ranged = ranged;
+		}
+
+		public bool IsDead()
+		{
+			return health <= 0;
 		}
 	}
 }
