@@ -4,7 +4,7 @@ namespace UvpRework
 {
 	public class BattleInfo : IComponent
 	{
-		private int power, speed, health, defense, projSpeed, rechargeSpeed, currentHealth, locX, locY, pTime;
+		private int power, speed, health, defense, projSpeed, rechargeTime, currentHealth, locX, locY, pTime;
 		private bool ranged;
 		private Team team;
 		public BattleInfo (int power, int speed, int health, int defense, int projSpeed, int rechargeSpeed, bool ranged, Team team)

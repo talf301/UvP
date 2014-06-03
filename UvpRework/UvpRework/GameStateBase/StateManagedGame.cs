@@ -10,8 +10,8 @@ namespace UvpRework
 		#region Fields
 		private List<IGameState> states;
 		IGameState activeState;
-		SpriteBatch sb;
-		GraphicsDeviceManager graphics;
+		protected SpriteBatch sb;
+		protected GraphicsDeviceManager graphics;
 		#endregion
 
 		#region Initialization
