@@ -34,15 +34,13 @@ namespace UvpRework
 
 		#region Initialization
 
-		public Game1 ()
+		public Game1 ()  	
 		{
 			
 			Content.RootDirectory = "Content";
-			BOARD_STATE = base.Add (BoardState.GetInstance ());
-			BATTLE_STATE = base.Add (BattleState.GetInstance ());
 			EntitySystem.BlackBoard.SetEntry<ContentManager>("Content", Content);
-			EntitySystem.BlackBoard.SetEntry<SpriteBatch>("SpriteBatch", sb);
-			EntitySystem.BlackBoard.SetEntry<GraphicsDeviceManager>("Graphics", graphics);	
+			BOARD_STATE = base.Add (BoardState.GetInstance ());
+			BATTLE_STATE = base.Add (BattleState.GetInstance ());;	
 		}
 
 		public static Game1 GetInstance()
@@ -50,6 +48,11 @@ namespace UvpRework
 			if (instance == null)
 				instance = new Game1 ();
 			return instance;
+		}
+
+		protected override void Initialize()
+		{
+			base.Initialize ();
 		}
 		/// <summary>
 		/// Load your graphics content.

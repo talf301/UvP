@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Content;
 
 namespace UvpRework
 {
@@ -23,6 +24,7 @@ namespace UvpRework
 
 		protected override void Initialize()
 		{
+			sb = new SpriteBatch (GraphicsDevice);
 			foreach (IGameState s in states)
 				s.Initialize();
 			try{
@@ -36,10 +38,21 @@ namespace UvpRework
 
 		protected override void LoadContent()
 		{
-			sb = new SpriteBatch (graphics.GraphicsDevice);
 			foreach (IGameState s in states)
 				s.LoadContent (Content);
+			base.LoadContent ();
 		}
+		#endregion
+
+		#region Getters
+		public SpriteBatch GetSB() {
+			return sb;
+		}
+
+		public ContentManager GetContent() {
+			return Content;
+		}
+
 		#endregion
 
 		#region Update+Draw
