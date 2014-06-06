@@ -8,9 +8,9 @@ namespace UvpRework
 	public interface IGameState
 	{
 		void Initialize ();
-		void LoadContent (ContentManager Content);
+		void LoadContent ();
 		void Update(GameTime gameTime);
-		void Draw (GameTime gameTime, SpriteBatch sb);
+		void Draw (GameTime gameTime);
 	}
 }
 

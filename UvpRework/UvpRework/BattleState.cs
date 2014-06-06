@@ -7,6 +7,8 @@ namespace UvpRework
 	public class BattleState : IGameState
 	{
 		private static BattleState instance;
+		private SpriteBatch sb;
+		private ContentManager Content;
 		public BattleState ()
 		{
 		}
@@ -18,9 +20,12 @@ namespace UvpRework
 			return instance;
 		}
 
-		public void Initialize(){}
+		public void Initialize(){
+			sb = Game1.GetInstance().GetSB();
+			Content = Game1.GetInstance().GetContent();
+		}
 
-		public void LoadContent(ContentManager Content)
+		public void LoadContent()
 		{
 		}
 
@@ -28,7 +33,7 @@ namespace UvpRework
 		{
 		}
 
-		public void Draw(GameTime gameTime, SpriteBatch sb)
+		public void Draw(GameTime gameTime)
 		{
 			sb.GraphicsDevice.Clear (Color.CornflowerBlue);
 		}

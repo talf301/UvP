@@ -39,7 +39,7 @@ namespace UvpRework
 		protected override void LoadContent()
 		{
 			foreach (IGameState s in states)
-				s.LoadContent (Content);
+				s.LoadContent ();
 			base.LoadContent ();
 		}
 		#endregion
@@ -66,7 +66,7 @@ namespace UvpRework
 		{
 			sb.Begin ();
 
-			activeState.Draw (gameTime, sb);
+			activeState.Draw (gameTime);
 
 			base.Draw (gameTime);
 

@@ -13,6 +13,8 @@ namespace UvpRework
 		private EntityWorld world;
 		private EntitySystem BoardInputSystem;
 		private SystemManager Sys;
+		private ContentManager Content;
+		private SpriteBatch sb;
 		Texture2D logoTexture;
 		private Entity[][] State;
 		private static BoardState instance;
@@ -33,9 +35,11 @@ namespace UvpRework
 			world = new EntityWorld ();
 			Sys = world.SystemManager;
 			world.InitializeAll(true);
-					}
+			Content = Game1.GetInstance().GetContent();
+			sb = Game1.GetInstance().GetSB();
+		}
 
-		public void LoadContent(ContentManager Content)
+		public void LoadContent()
 		{
 			logoTexture = Content.Load<Texture2D> ("logo");
 			Entity e = world.CreateEntity();
@@ -54,7 +58,7 @@ namespace UvpRework
 		{
 		}
 
-		public void Draw(GameTime gameTime, SpriteBatch sb)
+		public void Draw(GameTime gameTime)
 		{
 			Sys.GetSystem<BoardRenderSystem>()[0].Process();
 			sb.Draw (logoTexture, new Vector2 (130, 200), Color.White);
