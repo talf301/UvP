@@ -16,7 +16,7 @@ namespace UvpRework
 		private ContentManager Content;
 		private SpriteBatch sb;
 		Texture2D logoTexture;
-		private Entity[][] State;
+		private Entity[,] State;
 		private static BoardState instance;
 		public BoardState ()
 		{
@@ -37,6 +37,11 @@ namespace UvpRework
 			world.InitializeAll(true);
 			Content = Game1.GetInstance().GetContent();
 			sb = Game1.GetInstance().GetSB();
+		}
+		
+		public Entity[,] GetState()
+		{
+			return State;
 		}
 
 		public void LoadContent()
