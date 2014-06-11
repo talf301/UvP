@@ -48,13 +48,38 @@ namespace UvpRework
 			}
 			else
 			{
-
+				
 			}
 		}
 
-		private Boolean[,] GetReachable(int movement, int x, int y, Boolean[,] reach = null)
+		private Boolean[,] GetReachable(int movement, int x, int y,	Team team, Boolean[,] reach = null)
 		{
-				
+			if(movement == 0)
+				return reach;
+			if(reach == null)
+			{
+				reach = new Boolean[9,9]();
+				reach[x,y] = true;
+			}
+			for(int i = -1; i < 2; i++)
+			{
+				for(int j = -1; j < 2; j++)
+				{
+					if(i*i + j*j == 1)
+					{
+						if(!reach[x+i,y+j] && Board[x+i,y+j] == null)
+						{
+							reach[x+i,y+j] = true;
+							GetReachable(movement-1,x+i,y+j,reach);
+						}
+
+						if(!reach[x+i,y+j] && team != Board[x+i,y+j].GetComponent<BoardInfo>().GetTeam())
+						{
+							reach[x+i,y+j] = true;
+						}
+					}
+				}
+			}
 		}	
 	}
 }
