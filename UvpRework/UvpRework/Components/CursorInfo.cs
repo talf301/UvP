@@ -1,3 +1,4 @@
+using System;
 using Artemis;
 using Artemis.Interface;
 
@@ -7,17 +8,17 @@ namespace UvpRework
 	{
 		private Entity[,] Board;
 		private int x,y, SelX, SelY;
-		private Boolean Selected;
-		private Boolean[,] Selectable;
-		private Boolean[,] Moveable;
+		private bool Selected;
+		private bool[,] Selectable;
+		private bool[,] Moveable;
 		private Team team;
 		public CursorInfo()
 		{
 			Board = BoardState.GetInstance().GetState();
 			team = Team.UPHOLDERS;
-			Selectable = new Boolean[9,9];
-			UpdateSelectable();
-			Moveable = new Boolean[9,9];
+			Selectable = new bool[9,9];
+			UpdateNonSelect();
+			Moveable = new bool[9,9];
 		}
 
 		private void UpdateNonSelect()
@@ -50,17 +51,17 @@ namespace UvpRework
 			else
 			{
 				Moveable = GetReachable(e.GetComponent<BoardInfo>().GetMovement(),SelX, SelY, info.GetTeam());
-				Selectable = (Boolean[,])Moveable.Clone();	
+				Selectable = (bool[,])Moveable.Clone();	
 			}
 		}
 
-		private Boolean[,] GetReachable(int movement, int x, int y,	Team team, Boolean[,] reach = null)
+		private bool[,] GetReachable(int movement, int x, int y,	Team team, bool[,] reach = null)
 		{
 			if(movement == 0)
 				return reach;
 			if(reach == null)
 			{
-				reach = new Boolean[9,9]();
+				reach = new bool[9,9];
 				reach[x,y] = true;
 			}
 			for(int i = -1; i < 2; i++)
@@ -72,7 +73,7 @@ namespace UvpRework
 						if(!reach[x+i,y+j] && Board[x+i,y+j] == null)
 						{
 							reach[x+i,y+j] = true;
-							GetReachable(movement-1,x+i,y+j,reach);
+							GetReachable(movement-1,x+i,y+j,team,reach);
 						}
 
 						if(!reach[x+i,y+j] && team != Board[x+i,y+j].GetComponent<BoardInfo>().GetTeam())
@@ -82,6 +83,8 @@ namespace UvpRework
 					}
 				}
 			}
+			return reach;
+
 		}	
 	}
 }

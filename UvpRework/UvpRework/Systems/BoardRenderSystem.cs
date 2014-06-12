@@ -1,6 +1,7 @@
 ﻿using System;
+using System.IO;
 using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Content
+using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Artemis;
 using Artemis.System;
@@ -11,6 +12,7 @@ namespace UvpRework
 	public class BoardRenderSystem : EntityProcessingSystem
 	{
 		private SpriteBatch sb;
+		private Texture2D Board;
 		public BoardRenderSystem() : base(Aspect.All(typeof(BoardInfo), typeof(Sprite))){
 			sb = Game1.GetInstance ().GetSB ();
 			
@@ -19,7 +21,12 @@ namespace UvpRework
 		public override void LoadContent()
 		{
 			ContentManager Content = Game1.GetInstance().GetContent();
-			//Load background sprite
+			Board = Content.Load<Texture2D>(Path.Combine("Sprites", "BoardBackground.png"));	
+		}
+		
+		public override void Process()
+		{
+			sb.Draw(Board, new Rectangle(0,0,Board.Width,Board.Height), Color.White);
 		}
 
 		public override void Process (Entity e)

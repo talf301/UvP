@@ -1,0 +1,11 @@
+4
+16
+3
+42
+2
+17
+150
+true
+true
+false
+Sprites\Characters\Dragon Rider\

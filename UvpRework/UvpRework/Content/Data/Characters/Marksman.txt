@@ -1,0 +1,11 @@
+3
+10
+2
+40
+0
+12
+150
+true
+false
+true
+Sprites\Characters\Marksman\
