@@ -35,20 +35,22 @@ namespace UvpRework
 		public void UpdateSelect()
 		{
 			Entity e = Board[SelX, SelY];
-			if(e.GetComponent<BoardInfo>().IsFlying())
+			BoardInfo info = e.GetComponent<BoardInfo>();
+			if(info.IsFlying())
 			{
 				for(int i = 0; i < Board.GetLength(0); i++)
 				{
 					for(int j = 0; j < Board.GetLength(1); j++)
 					{
-						Moveable[i,j] = Math.Max(Math.Abs(i-SelX), Math.Abs(j-SelY)) <= e.GetComponent<BoardInfo>().GetMovement();
-						Selectable[i,j] = Moveable[i,j] && (Board[i,j] == null || Board[i,j] == e || Board[i,j].GetComponent<BoardInfo>().GetTeam() != e.GetComponent<BoardInfo>().GetTeam());
+						Moveable[i,j] = Math.Max(Math.Abs(i-SelX), Math.Abs(j-SelY)) <= info.GetMovement();
+						Selectable[i,j] = Moveable[i,j] && (Board[i,j] == null || Board[i,j] == e || Board[i,j].GetComponent<BoardInfo>().GetTeam() != info.GetTeam());
 					}
 				}
 			}
 			else
 			{
-				
+				Moveable = GetReachable(e.GetComponent<BoardInfo>().GetMovement(),SelX, SelY, info.GetTeam());
+				Selectable = (Boolean[,])Moveable.Clone();	
 			}
 		}
 
