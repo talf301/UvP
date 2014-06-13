@@ -36,9 +36,10 @@ namespace UvpRework
 
 		public Game1 ()  	
 		{
-			
 			Content.RootDirectory = "Content";
 			EntitySystem.BlackBoard.SetEntry<ContentManager>("Content", Content);
+			this.graphics.PreferredBackBufferWidth = 800;
+			this.graphics.PreferredBackBufferHeight = 600;
 			BOARD_STATE = base.Add (BoardState.GetInstance ());
 			BATTLE_STATE = base.Add (BattleState.GetInstance ());;	
 		}

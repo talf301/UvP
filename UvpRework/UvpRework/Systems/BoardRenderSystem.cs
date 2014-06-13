@@ -12,21 +12,22 @@ namespace UvpRework
 	public class BoardRenderSystem : EntityProcessingSystem
 	{
 		private SpriteBatch sb;
-		private Texture2D Board;
+		private Texture2D Background, Board;
 		public BoardRenderSystem() : base(Aspect.All(typeof(BoardInfo), typeof(Sprite))){
 			sb = Game1.GetInstance ().GetSB ();
-			
 		}
 		
 		public override void LoadContent()
 		{
 			ContentManager Content = Game1.GetInstance().GetContent();
-			Board = Content.Load<Texture2D>(Path.Combine("Sprites", "BoardBackground.png"));	
+			Background = Content.Load<Texture2D>(Path.Combine("Sprites", "BoardBackground.png"));	
+			Board = Content.Load<Texture2D>(Path.Combine("Sprites", "BoardNeutral"));
 		}
 		
 		public override void Process()
 		{
-			sb.Draw(Board, new Rectangle(0,0,Board.Width,Board.Height), Color.White);
+			sb.Draw(Background, new Rectangle(0,0,Background.Width,Background.Height), Color.White);
+			sb.Draw(Board, new Rectangle(130,5,Board.Width,Board.Height), Color.White);
 		}
 
 		public override void Process (Entity e)
