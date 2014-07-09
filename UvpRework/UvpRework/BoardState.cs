@@ -44,6 +44,13 @@ namespace UvpRework
 			return State;
 		}
 
+		private void CreateCursor()
+		{
+			Entity e = world.CreateEntity();
+			e.AddComponent(new CursorInfo());
+			e.Tag = "Cursor";
+		}
+
 		public void LoadContent()
 		{
 			logoTexture = Content.Load<Texture2D> ("logo");

@@ -15,7 +15,8 @@ namespace UvpRework
 		public CursorInfo()
 		{
 			Board = BoardState.GetInstance().GetState();
-			team = Team.UPHOLDERS;
+			this.Reset(Team.UPHOLDERS);
+			Selected = false;
 			Selectable = new bool[9,9];
 			UpdateNonSelect();
 			Moveable = new bool[9,9];
@@ -31,7 +32,23 @@ namespace UvpRework
 				}
 			}	
 		}
-		
+	
+		public void Reset(Team team)
+		{
+			if(team == Team.UPHOLDERS)
+			{
+				x = 1;
+				y = 5;
+			}
+			else
+			{
+				x = 9;
+				y = 5;
+			}
+			this.team = team;
+		}
+
+
 		//Assume a square is selected
 		public void UpdateSelect()
 		{
@@ -43,7 +60,7 @@ namespace UvpRework
 				{
 					for(int j = 0; j < Board.GetLength(1); j++)
 					{
-						Moveable[i,j] = Math.Max(Math.Abs(i-SelX), Math.Abs(j-SelY)) <= info.GetMovement();
+						Moveable[i,j] = Math.Max(Math.Abs(i - SelX), Math.Abs(j - SelY)) <= info.GetMovement();
 						Selectable[i,j] = Moveable[i,j] && (Board[i,j] == null || Board[i,j] == e || Board[i,j].GetComponent<BoardInfo>().GetTeam() != info.GetTeam());
 					}
 				}
@@ -55,7 +72,7 @@ namespace UvpRework
 			}
 		}
 
-		private bool[,] GetReachable(int movement, int x, int y,	Team team, bool[,] reach = null)
+		private bool[,] GetReachable(int movement, int x, int y, Team team, bool[,] reach = null)
 		{
 			if(movement == 0)
 				return reach;

@@ -13,7 +13,7 @@ namespace UvpRework
 	{
 		private SpriteBatch sb;
 		private Texture2D Background, Board;
-		public BoardRenderSystem() : base(Aspect.All(typeof(BoardInfo), typeof(Sprite))){
+		public BoardRenderSystem() : base(Aspect.All(Aspect.One(typeof(BoardInfo), typeof(CursorInfo)), typeof(Sprite))){
 			sb = Game1.GetInstance ().GetSB ();
 		}
 		
@@ -32,11 +32,17 @@ namespace UvpRework
 
 		public override void Process (Entity e)
 		{
-			int x = e.GetComponent<BoardInfo>().getX();
-			int y = e.GetComponent<BoardInfo>().getY();
-			Texture2D sprite = e.GetComponent<Sprite>().GetBoardImage(e.GetComponent<BoardInfo>().GetTeam());
-			sb.Draw(sprite, new Rectangle(135 + (60 * x), (8 - y) * 60 + 10, sprite.Width, sprite.Height), Color.White);  
-
+			//Deal with cursor drawing
+			if(e.Tag == "Cursor")
+			{
+			}
+			else  // Rest
+			{
+				int x = e.GetComponent<BoardInfo>().getX();
+				int y = e.GetComponent<BoardInfo>().getY();
+				Texture2D sprite = e.GetComponent<Sprite>().GetBoardImage(e.GetComponent<BoardInfo>().GetTeam());
+				sb.Draw(sprite, new Rectangle(135 + (60 * x), (8 - y) * 60 + 10, sprite.Width, sprite.Height), Color.White);  
+			}
 		}
 	}
 }
