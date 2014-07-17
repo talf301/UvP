@@ -7,7 +7,11 @@ namespace UvpRework
 	public class CursorInfo : IComponent
 	{
 		private Entity[,] Board;
-		private int x,y, SelX, SelY;
+		private int x;
+		public int X {get; private set;}
+		private int y;
+	    public int Y {get; private set;}	
+		private int	SelX, SelY;
 		private bool Selected;
 		private bool[,] Selectable;
 		private bool[,] Moveable;
