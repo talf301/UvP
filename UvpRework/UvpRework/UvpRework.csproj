@@ -100,13 +100,14 @@
     <Compile Include="Components\CursorInfo.cs" />
     <Compile Include="Templates\CharacterTemplate.cs" />
     <Compile Include="Templates\CursorTemplate.cs" />
+    <Compile Include="Systems\CursorRenderSystem.cs" />
+    <Compile Include="Systems\UnitRenderSystem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
     <None Include="Content\Data\BoardGreen.txt" />
     <None Include="Content\Data\BoardNeutral.txt" />
     <None Include="Content\Data\BoardWhite.txt" />
-    <None Include="Content\Data\Characters\Assassin.txt" />
     <None Include="Content\Data\Characters\Athas.txt" />
     <None Include="Content\Data\Characters\Callivion.txt" />
     <None Include="Content\Data\Characters\Dragon_Rider.txt" />
@@ -172,15 +173,6 @@
     <BundleResource Include="Content\Sprites\restartButton.png" />
     <BundleResource Include="Content\Sprites\restartButtonFill.png" />
     <BundleResource Include="Content\Sprites\whiterect.PNG" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame0.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame1.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame2.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame3.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame4.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame5.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame6.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame7.png" />
-    <BundleResource Include="Content\Sprites\Characters\Assassin\Projectile.png" />
     <BundleResource Include="Content\Sprites\Characters\Athas\Frame0.png" />
     <BundleResource Include="Content\Sprites\Characters\Athas\Frame1.png" />
     <BundleResource Include="Content\Sprites\Characters\Athas\Frame2.png" />
@@ -367,6 +359,14 @@
     <BundleResource Include="Content\Sprites\Characters\Wyvern\Frame8.png" />
     <BundleResource Include="Content\Sprites\Characters\Wyvern\Frame9.png" />
     <BundleResource Include="Content\Sprites\Characters\Wyvern\Projectile.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame0.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame1.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame2.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame3.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame4.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame5.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame6.png" />
+    <BundleResource Include="Content\Sprites\Characters\Assassin\Frame7.png" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
@@ -376,5 +376,11 @@
     <Folder Include="Content\Data\" />
     <Folder Include="Content\Sprites\" />
     <Folder Include="Templates\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Data\Characters\Assassin.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ImageAsset Include="Content\Sprites\Characters\Assassin\Projectile.png" />
   </ItemGroup>
 </Project>

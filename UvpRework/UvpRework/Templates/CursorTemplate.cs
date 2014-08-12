@@ -12,7 +12,7 @@ namespace UvpRework
 		{
 			e.AddComponent(new CursorInfo());
 			ContentManager Content = Game1.GetInstance().GetContent();
-			Texture2D sprites = new Texture2D[8];
+			Texture2D[] sprites = new Texture2D[8];
 			//We load in 4 copies of the sprite to slightly cheat the sprite system
 			for(int i = 0; i < 4; i++)
 			{
@@ -24,6 +24,8 @@ namespace UvpRework
 			{
 				sprites[i] = Content.Load<Texture2D> ("Sprites" + Path.PathSeparator + "UpholdersCursor");
 			}
+			e.Tag = "Cursor";
+			return e;			
 		}
 	}
 

@@ -31,11 +31,11 @@ namespace UvpRework
 			if (ranged) {
 				sprites = new Texture2D[8];
 				for (int i = 0; i < 8; i++)
-					sprites [i] = Content.Load<Texture2D> (spriteLocation + Path.PathSeparator + i);
+					sprites [i] = Content.Load<Texture2D> (spriteLocation + Path.DirectorySeparatorChar + "Frame" + i);
 			} else {
 				sprites = new Texture2D[16];
-				for(int i = 0; i < 16; i++)
-					sprites [i] = Content.Load<Texture2D> (spriteLocation + Path.PathSeparator + i);
+				for (int i = 0; i < 16; i++)
+					sprites [i] = Content.Load<Texture2D> (spriteLocation + Path.DirectorySeparatorChar + "Frame" + i);
 			}
 			e.AddComponent (new BattleInfo (power, speed, health, defense, projSpeed, rechargeSpeed, ranged, team));
 			e.AddComponent (new BoardInfo (movement, flying, team, x, y));

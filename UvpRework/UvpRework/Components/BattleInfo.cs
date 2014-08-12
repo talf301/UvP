@@ -20,6 +20,7 @@ namespace UvpRework
 			this.locX = 0;
 			this.locY = 0;
 			this.team = team;
+			this.pTime = rechargeTime;
 		}
 
 		public bool IsDead()

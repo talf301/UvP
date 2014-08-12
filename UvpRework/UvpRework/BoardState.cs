@@ -44,15 +44,9 @@ namespace UvpRework
 			return State;
 		}
 
-		private void CreateCursor()
-		{
-			Entity e = world.CreateEntity();
-			e.AddComponent(new CursorInfo());
-			e.Tag = "Cursor";
-		}
-
 		public void LoadContent()
 		{
+			Entity s = world.CreateEntityFromTemplate("CharacterTemplate", new object[] {"Content/Data/Characters/Assassin.txt", 1, 1});
 			logoTexture = Content.Load<Texture2D> ("logo");
 			Entity e = world.CreateEntity();
 			e.AddComponent(new BoardInfo(0,false,Team.UPHOLDERS,5,5));
@@ -63,17 +57,19 @@ namespace UvpRework
 			}
 			e.AddComponent(new Sprite(t));
 			e.Refresh();
-					
 		}
 
 		public void Update(GameTime gameTime)
 		{
+			world.Update();
 		}
 
 		public void Draw(GameTime gameTime)
 		{
-			Sys.GetSystem<BoardRenderSystem>()[0].Process();
-			sb.Draw (logoTexture, new Vector2 (130, 200), Color.White);
+			//Sys.GetSystem<UnitRenderSystem>()[0].Process();
+			//Sys.GetSystem<BoardRenderSystem>()[0].IsEnabled
+			world.Draw();
+			//sb.Draw (logoTexture, new Vector2 (130, 200), Color.White);
 		}
 
 	}
