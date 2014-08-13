@@ -7,22 +7,20 @@ namespace UvpRework
 	public class CursorInfo : IComponent
 	{
 		private Entity[,] Board;
-		private int x;
 		public int X {get; private set;}
-		private int y;
 	    public int Y {get; private set;}	
 		private int	SelX, SelY;
 		private bool Selected;
 		private bool[,] Selectable;
 		private bool[,] Moveable;
-		private Team team;
+		public Team team {get; private set;}
 		public CursorInfo()
 		{
 			Board = BoardState.GetInstance().GetState();
 			this.Reset(Team.UPHOLDERS);
 			Selected = false;
 			Selectable = new bool[9,9];
-			UpdateNonSelect();
+			//UpdateNonSelect();
 			Moveable = new bool[9,9];
 		}
 
@@ -41,13 +39,13 @@ namespace UvpRework
 		{
 			if(team == Team.UPHOLDERS)
 			{
-				x = 1;
-				y = 5;
+				this.X = 1;
+				this.Y = 5;
 			}
 			else
 			{
-				x = 9;
-				y = 5;
+				this.X = 9;
+				this.Y = 5;
 			}
 			this.team = team;
 		}

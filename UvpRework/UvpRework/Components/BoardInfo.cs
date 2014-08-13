@@ -7,7 +7,7 @@ namespace UvpRework
 	{
 		private int movement, posX, posY;
 		private bool flying;
-		private Team team;
+		public Team team {get; private set;}
 		public BoardInfo (int movement, bool flying, Team team, int initX, int initY)
 		{
 			this.movement = movement;

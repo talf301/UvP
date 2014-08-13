@@ -47,16 +47,7 @@ namespace UvpRework
 		public void LoadContent()
 		{
 			Entity s = world.CreateEntityFromTemplate("CharacterTemplate", new object[] {"Content/Data/Characters/Assassin.txt", 1, 1});
-			logoTexture = Content.Load<Texture2D> ("logo");
-			Entity e = world.CreateEntity();
-			e.AddComponent(new BoardInfo(0,false,Team.UPHOLDERS,5,5));
-			Texture2D[] t = new Texture2D[8];
-			for(int i = 0; i < 8; i++)
-			{
-				t[i] = logoTexture;
-			}
-			e.AddComponent(new Sprite(t));
-			e.Refresh();
+			world.CreateEntityFromTemplate("CursorTemplate", new object[] {});
 		}
 
 		public void Update(GameTime gameTime)

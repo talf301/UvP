@@ -16,14 +16,15 @@ namespace UvpRework
 			//We load in 4 copies of the sprite to slightly cheat the sprite system
 			for(int i = 0; i < 4; i++)
 			{
-				sprites[i] = Content.Load<Texture2D> ("Sprites" + Path.PathSeparator + "PersecutorsCursor");
+				sprites[i] = Content.Load<Texture2D> ("Sprites" + Path.DirectorySeparatorChar + "PersecutorsCursor");
 			}
 
 			//Do it again
 			for(int i = 4; i < 8; i++)
 			{
-				sprites[i] = Content.Load<Texture2D> ("Sprites" + Path.PathSeparator + "UpholdersCursor");
+				sprites[i] = Content.Load<Texture2D> ("Sprites" + Path.DirectorySeparatorChar + "UpholdersCursor");
 			}
+			e.AddComponent(new Sprite(sprites));
 			e.Tag = "Cursor";
 			return e;			
 		}
